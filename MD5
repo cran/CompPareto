@@ -1,0 +1,11 @@
+2a34f36d7c55b3b38b72965a2134d7dd *DESCRIPTION
+ecfbb29c76d9c612f94ee689959c8dee *NAMESPACE
+eb5a046a51147e7e9a469bd2e9def3f5 *R/dcomppareto.R
+63910af072e81a02852c9a11920e7086 *man/dcomppareto.Rd
+670b5e862c7bc79ec069529e803219e2 *man/dwdcomppareto.Rd
+32a45a76bf2afe56e3bf916d54501ae1 *man/pcomppareto.Rd
+f58529163a6c46e6b5f8215309ab8d08 *man/pwdcomppareto.Rd
+54c1524edcb3012059200299b03b91a7 *man/qcomppareto.Rd
+6a0c343e12cace7fcd9e5e6c56074f62 *man/qwdcomppareto.Rd
+d05d958b6cd513c8b8e31f623d5271a6 *man/rcomppareto.Rd
+e16f87198bb52874ceadc376cce93ff0 *man/rwdcomppareto.Rd
